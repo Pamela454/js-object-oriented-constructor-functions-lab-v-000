@@ -1,3 +1,3 @@
-functions Objects() {
+functions Scooter() {
   
 }
